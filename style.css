@@ -19,7 +19,7 @@ h1,h2 {
 }
 
 h2 {
-    font: 400 3vw 'Raleway', sans-serif;
+    font: 401 3vw 'Raleway', sans-serif;
 }
 
 h3 {
@@ -27,12 +27,12 @@ h3 {
     color: rgba(0,0,0,.5);
     text-align: center;
     text-transform: none;
-    letter-spacing: 0.01vw;
+    letter-spacing: 0.02vw;
 }
 
 button{
     padding: 1vw;
-    border-radius: 1vw;
+    border-radius: 2vw;
     margin: 0vw;
     font-family: Arial;
     font-size: 1.4vw;
